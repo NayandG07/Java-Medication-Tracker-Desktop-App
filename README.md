@@ -52,4 +52,5 @@ This project is open source and available for personal use.
 
 ## Author
 
-[Your Name]
+Nayandeep Goswami 
+Dhiman Saikia
